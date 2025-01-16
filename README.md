@@ -1,1 +1,1 @@
-Carried out a basic data cleaning project in Pandas, focusing on handling missing values and duplicates. Improved data quality to ensure accurate and consistent analysis.
+Carried out a basic data cleaning project in Pandas, focusing on handling missing values and duplicates. Improved data quality to ensure accurate and consistent analysis.Explored the dataset to identify key trends and patterns for actionable insights.
